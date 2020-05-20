@@ -1,5 +1,5 @@
 ::Switch off echo
-@echo on
+@echo off
 
 ::Set global path
 SET currentPath=%~dp0
